@@ -1,0 +1,10 @@
+Code-Review+2: Colin Cross <ccross@android.com>
+Code-Review+1: Luca Stefani <luca.stefani.ge1@gmail.com>
+Autosubmit+1: Colin Cross <ccross@android.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Verified+1: Luca Stefani <luca.stefani.ge1@gmail.com>
+Submitted-by: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-at: Tue, 17 Sep 2019 23:19:03 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/prebuilts/vndk/v28/+/1123557
+Project: platform/prebuilts/vndk/v28
+Branch: refs/heads/master
