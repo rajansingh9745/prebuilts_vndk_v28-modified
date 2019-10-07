@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fafa6082_4e5b30d1",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2019-10-07T07:16:07Z",
+      "side": 1,
+      "message": "Could you please add the bug id b/142220143 to here. Let me take this bug.",
+      "range": {
+        "startLine": 85,
+        "startChar": 3,
+        "endLine": 85,
+        "endChar": 15
+      },
+      "revId": "b576c96643fde545a0b103a7bf319a7149245c2d",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": true
+    }
+  ]
+}
