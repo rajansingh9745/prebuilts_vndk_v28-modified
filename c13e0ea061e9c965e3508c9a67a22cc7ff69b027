@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f11307c_081b16d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1018026
+      },
+      "writtenOn": "2020-10-28T05:16:14Z",
+      "side": 1,
+      "message": "Breakage not related to my CL/Topic",
+      "revId": "c13e0ea061e9c965e3508c9a67a22cc7ff69b027",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
