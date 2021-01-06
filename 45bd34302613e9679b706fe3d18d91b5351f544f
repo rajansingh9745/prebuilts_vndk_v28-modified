@@ -16,6 +16,24 @@
       "message": "Do we still need to support v28?",
       "revId": "45bd34302613e9679b706fe3d18d91b5351f544f",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0d03ad1_6960984d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2021-01-06T08:36:14Z",
+      "side": 1,
+      "message": "Yes, v28 is for P.",
+      "parentUuid": "d256a9be_249e62c4",
+      "revId": "45bd34302613e9679b706fe3d18d91b5351f544f",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
