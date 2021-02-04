@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc73f733_2690a54e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-02-04T01:51:43Z",
+      "side": 1,
+      "message": "Dash blanket approved all GPL -\u003e RESTRICTED and all LGPL -\u003e RESTRICTED\n",
+      "revId": "4baba3b4186d83f5965cdd6acf15353b9ef6571c",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
